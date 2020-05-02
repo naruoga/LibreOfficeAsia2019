@@ -1,0 +1,1856 @@
+0:00:07.330,0:00:16.010
+みなさんのお国にいることは信じられないほど素晴らしい。
+残念ながら私たちの文化と
+
+0:00:16.010,0:00:21.920
+言葉はとても異なっているので、
+この気持ちをみなさんの言葉で伝えることは
+
+0:00:21.920,0:00:27.220
+不可能ですし、私の母語で私の気持ちを伝えても
+みなさんは理解できないでしょう。
+
+0:00:27.220,0:00:34.280
+私の母語はイタリア語なので、
+自己紹介は数語でできてしまいます。
+
+0:00:34.280,0:00:39.380
+私の言葉だと
+"Buonasera, lo sono Italo Vignoli."
+
+0:00:39.380,0:00:46.880
+これは私たちの言葉がみなさんのものといかに
+異なっているかを示していますが、
+
+0:00:46.900,0:00:54.320
+フリー／オープンソースソフトウェアが独特なのは
+異なる文化や背景を持っていても
+
+0:00:54.320,0:00:59.800
+完全に透明性のあるやり方で
+ともに活動することができることだと、私は考えます。
+
+0:00:59.800,0:01:07.240
+昨日の夕食会では、少なくとも二つか三つの大陸からの
+
+0:01:07.240,0:01:13.700
+参加者がいましたが、なにか違いを感じるということは
+ありませんでした。
+
+0:01:13.700,0:01:20.600
+宗教についてもイスラム教徒、キリスト教徒、
+仏教徒、そしてたぶんアジアならではの
+
+0:01:20.600,0:01:27.259
+異なる宗教の人もいましたが、
+
+0:01:27.259,0:01:33.640
+これもまた私たちの間には障壁には
+
+0:01:33.640,0:01:41.509
+ならなかったと思います。
+私はこの場でみなさんにお話できることを誇らしく
+
+0:01:41.509,0:01:47.719
+思います。TDFのコアメンバーがみなさんの国を訪問
+することはこれが最後ではないと希望します。
+
+0:01:47.719,0:01:54.140
+もし可能ならみなさんもぜひヨーロッパを訪ねてください。
+
+0:01:54.140,0:02:00.890
+そのときはぜひ私たちに連絡をください。
+最高のヨーロッパをお見せしますよ。
+
+0:02:00.890,0:02:07.020
+たぶん旅行ってわけではない……とは、思います。
+
+0:02:07.020,0:02:13.640
+さて、はじめにいくつかの地図から始めたいと思います。
+
+0:02:13.640,0:02:17.580
+ご存知の方も多いかもしれませんが
+私の専門は地理で、私は地理学者なんです。
+
+0:02:17.580,0:02:26.040
+技術とソフトウェアの世界にいるのは単なる偶然です。
+ついでにいえば、
+
+0:02:26.040,0:02:29.730
+地理学者で毎月給料を得るのは難しいという
+
+0:02:29.730,0:02:36.480
+事実もあります。
+そんなわけでいくつかの地図から始めます。何人かの
+
+0:02:36.480,0:02:43.380
+かたはすでにご覧になったかもしれないですが、
+オープンソースソフトウェアへの投資が
+
+0:02:43.380,0:02:49.739
+足りていないことが世界の不均衡を作っているということを
+示すものです。さて、これは
+
+0:02:49.739,0:02:57.750
+みなさんご存知の、典型的な地図です。
+各国はその面積で表現されています。
+
+0:02:57.750,0:03:08.370
+さて、もちろん、日本は私の国、
+これが私の国ですが、
+
+0:03:08.370,0:03:13.980
+と、だいたい同じか、ちょっと大きいですが、
+それでもすごく大きくはないですね。
+
+0:03:13.980,0:03:21.260
+人口に切り替えてみましょう。そうすると
+日本はイタリアよりもだいぶ大きくなることが
+
+0:03:21.269,0:03:27.780
+おわかりでしょう。これはイタリア人よりも日本人のほうが
+多いからですが、たとえばインド、例えば中国、
+
+0:03:27.780,0:03:33.569
+なんと大きいのでしょう。とても沢山の人が住んでいる
+からです。そして南米はなんと小さいか、
+
+0:03:33.569,0:03:40.680
+カナダはなんと小さいか。大きな国なのに。
+
+0:03:40.680,0:03:50.250
+では興味深いものに行きましょう。
+ソフトウェアライセンスの輸出量です。いいですか。
+
+0:03:50.250,0:03:58.890
+すごく巨大な国がありますね。誰もがご存知でしょうから、
+
+0:03:58.890,0:04:07.590
+名前は言わなくてもいいでしょうか。
+これはアイルランドです。ヨーロッパにおいてアイルランドは、
+
+0:04:07.590,0:04:14.130
+アメリカとヨーロッパの橋渡しになっているのです。
+ですからヨーロッパの巨大企業、アメリカの巨大企業は
+
+0:04:14.130,0:04:19.170
+アイルランドにオフィスを持って、自身のソフトウェアを
+輸入し、それをヨーロッパ全土に
+
+0:04:19.170,0:04:23.890
+輸出しているのです。
+正直なところ税金がとっても安いからです。
+
+0:04:23.890,0:04:36.810
+この「泡」はなんだろうと考えているかもしれません。
+これはスリナムです。スリナムは南米の
+
+0:04:36.810,0:04:41.910
+とっても小さな国で、南米において
+アイルランドと似た機能を果たしています。
+
+0:04:41.910,0:04:52.520
+昔のオランダの植民地で、税率は4%です。
+
+0:04:52.540,0:04:58.580
+なのでもちろん、MicrosoftやOracleはスリナムに
+彼らのソフトウェアを出荷し、
+
+0:04:58.580,0:05:02.600
+スリナムから南米の別の国に輸出しているのです。
+
+0:05:02.600,0:05:12.270
+さて、大変にアンバランスですね。
+アフリカはどこにありますか。みなさんの国はどこでしょう。
+
+0:05:12.270,0:05:19.860
+私が言いたいのは、みなさんの国は世界から、そう世界から
+消えてしまっているということで、これは不幸な
+
+0:05:19.860,0:05:26.100
+状況だということです。アメリカにソフトウェア
+開発をするなといいたいわけではなく、
+
+0:05:26.100,0:05:31.260
+もっとバランスのとれた状況にしたいと言っているのです。
+では輸入を見てみましょう。
+
+0:05:31.260,0:05:37.919
+輸入は輸出のまったく反対です。
+日本がとっても大きいのがわかりますね。
+
+0:05:37.919,0:05:43.830
+イタリアも大きいです。アイルランドは、輸出のために
+ソフトウェアを沢山輸入しているので
+
+0:05:43.830,0:05:52.020
+大きいです。
+ではアメリカがどこにあるかを教えますね。
+
+0:05:52.020,0:05:59.980
+メキシコとカナダのあいだにあるこの1ピクセルの線です。
+
+0:05:59.980,0:06:10.810
+ソフトウェアラインセンスの輸入においては、
+彼らは基本的には存在しないということで、
+
+0:06:10.810,0:06:16.449
+ちょっと考えて想像してみてください。
+通常はそれぞれの地域で、ぜんぶが地域でではないにせよ
+
+0:06:16.449,0:06:23.320
+少なくとも一部は地域で開発されることが一般的な、
+
+0:06:23.320,0:06:26.680
+フリーソフトウェアがもっと広まっていたらどうなるか。
+
+0:06:26.680,0:06:30.880
+これが、私たちがプロジェクトを始めたときに
+
+0:06:30.880,0:06:38.380
+置かれていた状況です。
+これは私たちの紙飛行機で、2010年にプロジェクトを
+
+0:06:38.380,0:06:45.280
+はじめ、2020年にはこう、と夢見てきたものです。
+2億のユーザーを持ちたい、ソフトウェア業界に
+
+0:06:45.280,0:06:52.060
+食い込みたい。
+最初の想定と比較すると、私たちはすでに目標を
+
+0:06:52.060,0:06:58.690
+達成したと言えると思いますが、
+理想とする目標には
+
+0:06:58.690,0:07:04.260
+未だ距離があります。
+
+0:07:04.260,0:07:09.190
+私たちにはOpenOffice.orgの10年にわたる
+資産があります。
+
+0:07:09.190,0:07:15.669
+LibreOfficeプロジェクトを始めた多くの人たちは
+
+0:07:15.669,0:07:21.550
+OpenOfficeコミュニティで活発に活動していました。
+日本でも、何人かは過去に活発で、
+
+0:07:21.550,0:07:29.949
+何人かはもうプロジェクトから離れ、
+何人かはもはや活発ではないと知っていますが、
+
+0:07:29.949,0:07:38.060
+プロジェクト開始時の私たちのアイディアは
+とても強固な歴史の上に築かれました。私たちの背景は強固です。
+
+0:07:38.060,0:07:44.020
+OpenOfficeは1984年に誕生しました。
+Marco Börriesが最初のプロダクトを作り
+
+0:07:44.020,0:07:49.760
+それをリリースしたときまで歴史を遡るなら、
+
+0:07:49.760,0:07:54.320
+私たちは30年か、40年近い歴史を
+持っているということになるのです。
+
+0:07:54.320,0:08:08.880
+OpenOfficeは2000に始まり、
+このプロジェクトの歴史において、
+
+0:08:08.880,0:08:16.900
+ずっと苦闘してきて、LibreOfficeになってから
+解決した複数の問題がありました。
+
+0:08:16.900,0:08:23.430
+たとえば、これは2000年のOpenOfficeです。
+
+0:08:23.430,0:08:30.090
+基本的なコードとリポジトリがこうでした。
+そして2005年のこと、たくさんの楽しい機能を
+
+0:08:30.090,0:08:40.710
+開発したので、
+OpenOfficeはちょっと太ってきました。
+
+0:08:40.710,0:08:49.620
+2006年、リヨンのカンファレンスにて、
+OpenOfficeガイドによるプレゼンがあり、
+
+0:08:49.620,0:08:54.030
+彼らは「わかったよ、コミュニティが
+ある分野では動きようがないんだよね。
+
+0:08:54.030,0:09:00.839
+だからコードの複雑さを減らすことにするよ」これは結局
+できずじまいで、LibreOfficeにより改善されました。
+
+0:09:00.839,0:09:08.520
+私たちはパッチの扱いも改善しました。この当時、
+吉田浩平さんによる有名なパッチ、
+
+0:09:08.520,0:09:19.710
+マージされるまで28ヶ月も放置されていました。
+ブランチに放置されて28ヶ月もそのままなんて、
+
+0:09:19.710,0:09:24.360
+まったく受け入れることができません。
+幸いなことにこのパッチは実に先進的で、
+
+0:09:24.360,0:09:32.790
+28ヶ月後でも意味があるものでしたが、
+技術の世界で28ヶ月といえば一世代です。
+
+0:09:32.790,0:09:37.950
+それから、初心者のメンタリング、これも
+LibreOfficeでちゃんとやるように
+
+0:09:37.950,0:09:46.550
+なったものです。
+さて、2009年のOracleによるSunの買収まで急ぎましょう。
+
+0:09:46.550,0:09:53.400
+このときコミュニティメンバーはすでにSunが
+
+0:09:53.400,0:10:00.750
+この状況をどう扱うかについて取り残されていたので、
+OpenOfficeがちゃんと扱えていなかったことを
+
+0:10:00.750,0:10:07.680
+一新するためにフォークするには今が正しいときだと
+
+0:10:07.680,0:10:13.980
+急いで決断し、実行に移しました。
+OpenOfficeはここで、現実問題として
+
+0:10:13.980,0:10:19.620
+OracleがOpenOfficeをやめるリスクはとても大きく、
+
+0:10:19.620,0:10:24.960
+結果として私たちは正しく、彼らはやめてしまったのですが、
+私たちのほとんどはLibreOfficeとなり、
+
+0:10:24.960,0:10:31.500
+ご存知のとおり、今日では、
+LibreOfficeは開発の軌跡となって、
+
+0:10:31.500,0:10:38.460
+10年近くものあいだリリースされ続け、
+通常、年2回のメジャーリリース、
+
+0:10:38.460,0:10:45.300
+毎月か1.5ヶ月ごとのマイナーリリースをしてきて、
+
+0:10:45.300,0:10:55.050
+プロダクトはずっとメンテされ続けてきたのです。
+私たちの宗教の言葉で「最後の晩餐」という
+
+0:10:55.050,0:11:01.350
+言葉がありますが、この状況とは似ていないため、
+
+0:11:01.350,0:11:06.880
+私たちは「最初の晩餐」というほうがよいですが、
+それが2010年9月2日、ブタペストで行われました。
+
+0:11:06.880,0:11:13.590
+基本的にはLibreOfficeプロジェクトを
+創設した人たちでしたが、
+
+0:11:13.590,0:11:19.560
+プロジェクトを取り巻く人たち、たとえば公証人も
+その一人ですが、も一緒でした。
+
+0:11:19.560,0:11:28.280
+ともかく参加者は、この新しいプロジェクトを
+どうやったら一緒に進められるかを真剣に議論しました。
+
+0:11:28.280,0:11:35.220
+何人かはみなさんもご存知かもしれません。これはFlorian Effenberger
+これはChris Nowak、LibreOfficeの色として
+
+0:11:35.220,0:11:40.860
+緑を選び、デザインを作った人です。その後子どもが生まれ、
+仕事を変えたためプロジェクトからは
+
+0:11:40.860,0:11:46.680
+離れましたが、それでも彼の貢献は
+
+0:11:46.680,0:11:54.740
+土台となるものです。フランスからCharles Schulz、
+今でも関わっています。Kendy、あるいはJan Holešovský、
+
+0:11:54.740,0:12:00.520
+Kendyのほうが簡単ですね。Thorsten Behrens、
+Michael Meeks、Caolán McNamara、
+
+0:12:00.529,0:12:12.020
+これは私、Sophie、彼の名前は覚えてないですね、
+いずれにせよこのあと仕事が変わりましたが、
+
+0:12:12.029,0:12:22.640
+(会場のLothar氏から補足) ああ、そうだ。Cor Nouws、
+Olivier Hallot、コペンハーゲンからLeif Lodahl。
+
+0:12:22.640,0:12:29.850
+私たちがフォークをしたのです。
+
+0:12:29.850,0:12:37.589
+そしてこれ、告知文を作って、2020年に目標を置いたのです。
+
+0:12:37.589,0:12:46.180
+来年ですね。
+今は道中、9年目ということになります。
+
+0:12:46.180,0:12:51.132
+そしてこれはそれからのフォークの歴史です。
+
+0:12:51.132,0:12:57.800
+ご存知のとおり、Apache OpenOfficeがあります。
+IBMがフリーソフトウェアプロダクトと競合するような
+
+0:12:57.800,0:13:04.440
+プロダクトを選んだのは残念なストーリーですが、
+この会社は、少なくともヨーロッパでは、
+
+0:13:04.440,0:13:09.450
+日本でのことはわからないですが、少なくともヨーロッパと
+
+0:13:09.450,0:13:15.150
+アメリカでは、この会社はコミュニティを好いてはおらず、
+特にコミュニティメンバー、
+
+0:13:15.150,0:13:22.290
+私のような、を嫌っていたのです。
+私は、これはなにか間違っているぞと思ったときには
+
+0:13:22.290,0:13:26.970
+とても単刀直入になるほうで、
+間違っているぞと伝えます。
+
+0:13:26.970,0:13:33.240
+繰り返しますが、Sunの何年かのやり方はなにか間違って
+
+0:13:33.240,0:13:40.460
+いて、彼らは私の透明性をあまりありがたくは思って
+いなかったようです。
+
+0:13:40.460,0:13:43.300
+そして、私たちはパラダイムを引っくり返しました。
+
+0:13:43.300,0:13:51.310
+これはOpenOfficeです。企業がプロジェクトを守ります。
+
+0:13:51.310,0:13:55.120
+雨が降ったとき、傘の下にいる人は濡れずにすみますが、
+
+0:13:55.120,0:14:01.810
+傘の下にいなければ濡れてしまいます。
+私たちは傘を引っくり返しました。これはサラダボウル
+
+0:14:01.810,0:14:07.540
+のコンセプトです。アメリカでは、
+サラダの材料があったとき、
+
+0:14:07.540,0:14:11.710
+それをボウルに入れてよくかき混ぜれば、
+サラダはおいしくなるとされます。
+
+0:14:11.710,0:14:20.320
+味がよりよくなるのです。
+少なくとも私の国では、こんなふうにいいます。
+
+0:14:20.320,0:14:25.900
+ボートに一緒に乗ったら全員が同じ方向に
+漕がなくちゃいけない。
+
+0:14:25.900,0:14:29.770
+たぶんヨーロッパの他の国でも似たような言い方を
+すると思います。アジアのみなさんが
+
+0:14:29.770,0:14:35.680
+こんな感じのたとえを用いるかはわかりませんが、
+コンセプトはシンプルです。コミュニティがこっちに行くと
+
+0:14:35.680,0:14:44.740
+決めたら、みんなは貢献を提供する活力を得られるのです。
+
+0:14:44.740,0:14:54.040
+これは私たちのホームページ、
+最初のホームページで、創立の
+
+0:14:54.040,0:15:00.880
+規範がかいてあります: コピーレフトなライセンス、
+今はLGPLからMPLに移行しました。
+
+0:15:00.880,0:15:07.600
+貢献者同意（contributor agreement）をやらない、
+実力主義、コミュニティによるガバナンス、
+
+0:15:07.600,0:15:17.260
+ベンダーからの独立。
+私たちの約款では、取締役会では、ある企業の代表者となる
+
+0:15:17.260,0:15:24.520
+投票権が30%を越えてはならないとなっています。
+
+0:15:24.520,0:15:33.820
+それから、私たちがプロジェクトを立ち上げたとき、
+それを見ていた多くの人がOracleへの抗議だと
+
+0:15:33.820,0:15:37.580
+いいましたが、そうではありません。
+Oracleへの抗議ではないのです、
+
+0:15:37.580,0:15:43.760
+なにか新しいものを作るためのプロジェクトなのです。
+私たちがOracleに対する刺客である、だから
+
+0:15:43.760,0:15:49.040
+みなさんにもOracleを刺してほしい、としている
+という記事が出たことがありましたが、
+
+0:15:49.040,0:15:54.050
+それは完全に間違いです。
+私たちはフリーソフトウェア、
+
+0:15:54.050,0:15:58.940
+利用の自由、ドキュメントの自由、オープンな標準、
+というセットを広めたいのです。もちろん、
+
+0:15:58.940,0:16:03.680
+LibreOfficeを開発します。
+もう一つのプロジェクトもあり、Document Liberationです。
+
+0:16:03.680,0:16:10.900
+ドキュメントのインポート・エクスポートを行うフィルターを扱います。
+
+0:16:10.900,0:16:15.620
+ここにいくつか数字があります。
+私たちには206人のメンバーがいて、
+
+0:16:15.620,0:16:22.700
+そして……ところで、ここにいるみなさんの中で、
+
+0:16:22.700,0:16:31.840
+TDFのメンバーでない人がいることを私は知っています。
+そして、来週末までには、
+
+0:16:31.840,0:16:37.900
+ここにいるみなさんの中でTDFメンバーではない人たちからの
+メンバー応募が届くと期待しています。
+
+0:16:37.900,0:16:44.230
+メンバーシップ委員会の議長は親しい友人で、
+
+0:16:44.230,0:16:49.520
+ともにイタリア人で、
+彼はGabriele Ponzoというのですが、
+
+0:16:49.520,0:16:55.960
+彼に、誰が応募を送ってきて誰が送っていないかを
+教えてくれるように言っておきます。
+
+0:16:55.960,0:17:02.360
+私はみなさんがどこにいるのか知っているのですから……。
+
+0:17:02.360,0:17:11.300
+いや、本当ではないですが、
+真面目に考えてくださいよ。
+
+0:17:11.300,0:17:18.840
+さて、私たちの主な資産は開発者です。
+アジアにはとても沢山開発者がいるとはいえなくて、
+
+0:17:18.840,0:17:25.680
+もっと増えることを願っています。
+開発者は貴重なので、みなさんありがとうございます。
+
+0:17:25.699,0:17:30.980
+開発者なしではプロジェクトを終わらせることはできません。
+プロダクトが存在しなくなってしまうからです。
+
+0:17:30.980,0:17:37.970
+実際には、素晴らしいプロダクトが存在します。
+単に仲間内で使うだけでなく、
+
+0:17:37.970,0:17:44.510
+政府でも使える、自信をもって、政府に勧めることが
+
+0:17:44.510,0:17:49.010
+できます。
+なぜなら、いかなるプロプライエタリなソフトウェアを
+
+0:17:49.010,0:17:53.990
+置き換えることで、それを使う人々に利点をもたらす
+
+0:17:53.990,0:17:59.740
+ことができるプロダクトを持っているわけですから。
+
+0:17:59.740,0:18:07.970
+これは開発者の数です。
+濃い緑色は昔からの開発者で、
+
+0:18:07.970,0:18:14.960
+すでにプロジェクトに参加している人たちを刺します。
+しかしこのグラフは2010年から2016年の終わりまでしか
+
+0:18:14.960,0:18:21.170
+ないことがおわかりでしょう。
+その時点で数えるのをやめたのです。
+
+0:18:21.170,0:18:25.910
+何人かから批判を受けたからです。いわく、
+
+0:18:25.910,0:18:30.530
+こんなことをしたら開発者を集められない、
+開発者が離れてしまう、と。
+
+0:18:30.530,0:18:38.090
+だから私たちは開発者を好きじゃないんですが、
+これは事実で、問題解決に取り組んだ
+
+0:18:38.090,0:18:42.440
+開発者を1200人近くまで数えたところで、
+数を数えるのをやめました。
+
+0:18:42.440,0:18:49.040
+理屈が通らないからです。
+これに置き換わる図をお見せしたいと思います。
+
+0:18:49.040,0:18:57.050
+有給か無給かによらない、でもほとんどが企業により
+給料が支払われている「コア」開発者が40人ほど
+
+0:18:57.050,0:19:05.630
+います。彼らはより強固な開発をします。
+また何人かの「一般的」開発者がいて、
+
+0:19:05.630,0:19:11.380
+ここにも一般的開発者は何人かいるかと思いますが、
+重要な開発をしています。
+
+0:19:11.380,0:19:16.730
+それから「一時的」開発者。
+一時的開発者はだいたい毎年入れ替わります。
+
+0:19:16.730,0:19:25.140
+結論として、だいたい年に300人ぐらいの開発者が
+いることになり、
+
+0:19:25.140,0:19:30.840
+これはプロダクトが強固なバックグラウンドを持っている
+ということを示します。
+
+0:19:30.840,0:19:39.230
+これは2019年のコミット数です。
+見て取れるように、もちろん、土曜日、日曜日、
+
+0:19:39.230,0:19:46.760
+それぞれの休暇がありますが、
+とてもしっかりしています。これは
+
+0:19:46.760,0:19:50.580
+LibreOffice 6.2のリリース告知の直前です。
+
+0:19:50.580,0:19:55.540
+これは、そう、もちろん、
+リリース告知の前後は活動がスパイクするのです。
+
+0:19:55.540,0:20:03.500
+これは組織別の貢献数です。
+多くの開発者が企業に雇用されています。
+
+0:20:03.500,0:20:12.299
+これはCollaboraによるパッチ、
+これはRed Hatのもの、unknownは
+
+0:20:12.299,0:20:17.610
+ボランティアを呼ぶよい呼び方ではないですが、
+彼らは企業の後援を受けておらず、
+
+0:20:17.610,0:20:23.309
+なので私たちは「unknown」という言葉を使いますが、
+
+0:20:23.309,0:20:30.900
+それからCIB、TDFはTDFによって雇用されている人たち、
+それから他の組織によるちょっとした機会もあります。
+
+0:20:30.900,0:20:41.640
+このスライドで見て取れる大事なことは、
+50%を超えるような活動をしている
+
+0:20:41.640,0:20:50.850
+単独の企業または組織は存在しないということです。
+これはプロジェクトの推進力で、
+
+0:20:50.850,0:20:56.549
+なぜならもし50%をやっている組織がいなくなったら、
+
+0:20:56.549,0:21:00.220
+プロジェクトを生きたまま続けることはできなくなって
+しまうからです。
+
+0:21:00.220,0:21:06.780
+そしてこれは私たちの4つの開発サイクルです。
+3.3から始まりましたが、このときは「掃除」と呼ばれていました。
+
+0:21:06.780,0:21:16.049
+4.xはコードのリファクタリング、すでにプロダクトには
+入っているけれども実際には最適化されていないコードの
+
+0:21:16.049,0:21:22.590
+再開発を行いました。次の作業はユーザーインターフェイスで、
+ユーザーインターフェイスの改善は今でも続いていますが、
+
+0:21:22.590,0:21:29.250
+現実として私たちは今6.xで、
+モバイルアプリケーションについては活発であるとは
+
+0:21:29.250,0:21:35.880
+言えないとはいえ、LibreOfficeは、
+すべてのプラットフォームで動作する
+
+0:21:35.880,0:21:41.480
+唯一のフリーのオフィスソフトなのです。
+すべてというのは、Windows、macOS、Linux、
+
+0:21:41.480,0:21:49.350
+そしてクラウドとモバイルを指しています。
+Microsoft Officeに近いところにいる
+
+0:21:49.350,0:21:55.440
+唯一の存在で、Microsoft OfficeはLinux版を
+持っていないからですが、LibreOffice以外は、
+
+0:21:55.440,0:22:02.539
+モバイルまたはその他のものも、
+クラウド版は存在しなくて、私たちには
+
+0:22:02.539,0:22:09.480
+LibreOffice Onlineがあり、
+今日もいくつか発表がありましたが、
+
+0:22:09.480,0:22:18.890
+もちろん、とても大事なことは、私たちは
+技術を可能にする「エンジン」を提供しているので、
+
+0:22:18.890,0:22:23.970
+インフラを提供しているわけではないと人々に
+説明すべきことです。
+
+0:22:23.970,0:22:30.360
+インフラは非営利団体が担うにはコストが
+見合わないからです。
+
+0:22:30.360,0:22:37.470
+そして私たちはとてもよい品質を保っています。
+コードを綺麗に保つ週次のサービスである
+
+0:22:37.470,0:22:43.940
+Coverity Scanを利用しており、
+GoogleによるOSS-Fuzzも使っていて、
+
+0:22:43.940,0:22:50.140
+その他コードの品質を高めることができるすべての
+ツールを利用しています。
+
+0:22:50.140,0:22:56.580
+Coverity Scanのレポートを見れば、
+LibreOfficeは1,000行あたりの
+
+0:22:56.580,0:23:03.809
+問題数がたぶん最も少ないオフィスソフトで
+あることを知ることができます。
+
+0:23:03.809,0:23:10.350
+たとえばFirefoxや、
+たとえばThunderbirdのように、
+
+0:23:10.350,0:23:18.090
+とても安定したsふとであると考えられているものよりも
+低い件数です。
+
+0:23:18.090,0:23:24.080
+もちろん、これはLibreOfficeが
+バグがないソフトウェアであるということを意味しません。
+
+0:23:24.080,0:23:32.380
+バグがないソフトウェアは存在し得ないです。
+しかし私たちはとても強固なコード基盤を持っています。
+
+0:23:32.380,0:23:38.669
+そしてコミュニティも、開発者と同じく強力な資産です。
+
+0:23:38.669,0:23:44.190
+コミュニティは2番目に大事です。なぜなら、
+もし開発者がいなければ、
+
+0:23:44.190,0:23:48.360
+プロダクトは手にはいりません。
+しかしもしコミュニティがなかったら、
+
+0:23:48.360,0:23:51.539
+各国語版はできないですし、それぞれの地域の
+マーケットに向けてのプロモーションも行えません。
+
+0:23:51.539,0:23:59.970
+なのでコミュニティは素晴らしいです。
+そして我々みんな、自身がその一部であることを
+
+0:23:59.970,0:24:07.229
+誇りに思うべきです。
+そしてコミュニティの地図です。ナイジェリアがなくて
+
+0:24:07.229,0:24:15.419
+すみません、急いで追加します。
+すべての地域でコミュニティが存在するかを
+
+0:24:15.419,0:24:22.559
+知ることは不可能なので、最善の推測として
+
+0:24:22.559,0:24:29.759
+ネットワーク越しの情報を用いているのです。
+もちろん、アフリカは私たちfoundationにとって
+
+0:24:29.759,0:24:39.139
+最優先の地域です。
+なぜならこの大陸では、ソフトウェアのニーズが
+
+0:24:39.139,0:24:49.289
+とてもたくさんあるのに対して、
+問題としては文化的に現実を説明するのが
+
+0:24:49.289,0:24:57.499
+難しいことですが、
+ともかくみなさんの国を見て取れます。
+
+0:24:57.499,0:25:04.229
+アメリカ大陸、中央アメリカにはコミュニティが
+あると思っていますが、
+
+0:25:04.229,0:25:10.019
+他の国のようにその証拠が見当たらないのですが、
+アジアでは概ねどの国にもコミュニティがあります。
+
+0:25:10.019,0:25:19.440
+そしてコミュニティが存在しているように
+見えない国を開発していく、
+
+0:25:19.440,0:25:24.239
+そしてコミュニティが他の国ほどのレベルに
+達していない国も開発していくことが大事です。
+
+0:25:24.239,0:25:29.549
+これはインドのコミュニティのレベルを
+どう上げていくかを
+
+0:25:29.549,0:25:36.299
+私たちが議論していることを
+言っているわけです。それから私は、
+
+0:25:36.299,0:25:45.239
+中国もまた重要だと思っています。
+幸いなことにコミュニティには
+
+0:25:45.239,0:25:49.400
+中国語が話せる人たちがいます。台湾人ですが、
+同じ言語が喋れるということではそうです。
+
+0:25:49.400,0:25:57.440
+これはもちろん大きな助けになります。
+中国コミュニティについてはすでに基礎があるということです。
+
+0:25:57.440,0:26:02.309
+インドは、複雑な国だと思っています。
+
+0:26:03.330,0:26:12.220
+とても大きく、人口が多く、
+言語もたくさんあります。なので
+
+0:26:12.220,0:26:19.990
+とても難しいです。
+そして、このようなカンファレンスに参加することは
+
+0:26:19.990,0:26:27.100
+とても大事です。なぜなら自分たちの外のコミュニティが
+どう活動しているか、多くを学べるからです。
+
+0:26:27.100,0:26:36.970
+ヨーロッパはとても小さいです。
+
+0:26:36.970,0:26:42.580
+continent is a smaller than China's
+moral dimension is probably smaller than
+
+0:26:42.580,0:26:48.850
+Australia.  And this is a is a continent
+so of course in in Europe where the
+
+0:26:48.850,0:26:57.009
+project was born community is really
+looks alike in every country the
+
+0:26:57.009,0:27:02.139
+differences are really minor apart from
+languages.  But differences were in the
+
+0:27:02.139,0:27:09.279
+way you develop the community are very
+small.  While the community works in
+
+0:27:09.279,0:27:16.419
+different ways in your geographies just
+because we have very strong but very
+
+0:27:16.419,0:27:22.059
+different cultures and we respect all
+the cultures I was in Indonesia last
+
+0:27:22.059,0:27:28.480
+year and I think that the Indonesians
+have done a wonderful work in growing
+
+0:27:28.480,0:27:34.509
+the community, they started two years and
+a half three years ago but now they have
+
+0:27:34.509,0:27:40.749
+a community as is self-sustaining, they
+are organizing events local events, they
+
+0:27:40.749,0:27:45.730
+are attracting more people because of
+course in a community you have people
+
+0:27:45.730,0:27:50.820
+that come in go and you cannot back on
+the fact that people is staying here forever.
+
+0:27:50.820,0:27:56.630
+And this is the activity of the community
+these are
+
+0:27:56.630,0:28:03.240
+just to give you, this is the core, these
+are the regular people, and these are the
+
+0:28:03.240,0:28:09.389
+casual people, this is based just on the
+commit or the number of emails that are
+
+0:28:09.389,0:28:15.600
+sent this is the dashboard of the
+document foundation you can access it at
+
+0:28:15.600,0:28:20.880
+the dashboard.documentfoundation.org.
+So you can check it for
+
+0:28:20.880,0:28:27.700
+yourself and you can filter the data 
+to see according to your interests.
+
+0:28:27.700,0:28:31.240
+And of course, last asset is LibreOffice,
+
+0:28:31.240,0:28:40.169
+open source software is is now adopted by the
+majority but still we have to do a lot
+
+0:28:40.169,0:28:46.370
+to make people aware about open source
+software.  If we look at Google Trends
+
+0:28:46.370,0:28:53.399
+LibreOffice is this one, so this at last 12
+months, Brazil is the country
+
+0:28:53.399,0:29:01.080
+where most research are coming from, but
+of course, if we look at the more details
+
+0:29:01.080,0:29:06.779
+this is very general is Google Trends so
+it's based on searche,s but if we look at
+
+0:29:06.779,0:29:14.399
+other measurement methods for instance,
+in in Asia
+
+0:29:14.399,0:29:19.100
+you see Japan having probably the larger
+share
+
+0:29:19.100,0:29:25.140
+and I will show the the slide about Asia 
+in a few minutes.
+
+0:29:25.140,0:29:28.320
+User base estimate, as I said we are
+
+0:29:28.320,0:29:36.840
+estimating around 200 million users, so
+this is more or less how we estimate the
+
+0:29:36.840,0:29:43.740
+number, so there are between 2 and 3
+billion users, PC users, we say that we
+
+0:29:43.740,0:29:50.400
+have 100 percent of Desktop Linux, maybe
+it's not 100 that is 99.9.
+
+0:29:50.400,0:29:57.750
+We have 10% of desktop Windows,
+10 percent of desktop macOS, so if you
+
+0:29:57.750,0:30:06.330
+sum all the figure is 236 million and
+we say, okay we are conservative, we say
+
+0:30:06.330,0:30:12.690
+we have 200 million is probably 100
+million are unique users, the other 100
+
+0:30:12.690,0:30:19.529
+million are using also another software
+so they may be using Microsoft Office or
+
+0:30:19.529,0:30:24.740
+other office suites or other specific
+software.
+
+0:30:24.740,0:30:28.500
+We provide two versions fresh versus still
+
+0:30:28.500,0:30:34.230
+we deliberately do not use
+the word stable, because the reality is
+
+0:30:34.230,0:30:40.110
+that they are both stable, but they need
+let's say that one is newer than the
+
+0:30:40.110,0:30:46.789
+other or if you want the Still is the
+more tested by users, of course when we
+
+0:30:46.789,0:30:54.299
+suggest which version to use, we usually
+suggest the older one, not because not
+
+0:30:54.299,0:31:02.279
+because the newer one creates issues, but
+because you never know who are the users
+
+0:31:02.279,0:31:08.250
+so it's better to start with a more
+tested version and then if necessary
+
+0:31:08.250,0:31:13.560
+move to the next one, but instead of the
+opposite.
+
+0:31:13.560,0:31:25.040
+And this is more or less gives you the numbers, 
+remember that LibreOffice is still we have LTS options.
+
+0:31:25.040,0:31:32.340
+so there are two companies they are both sitting
+on the advisory board, they provide the LTS
+
+0:31:32.340,0:31:37.020
+version so if you meet a government or
+corporation
+
+0:31:37.020,0:31:45.940
+that wants to get a product that is
+optimized for their need, they are not
+
+0:31:45.940,0:31:51.480
+getting a better product, they get a
+brother that is optimized, so they have
+
+0:31:51.480,0:32:00.040
+support they have back porting of
+patches, for instance, we... we do not back
+
+0:32:00.040,0:32:07.330
+port patches over nine months so when
+when the software is nine month old you
+
+0:32:07.330,0:32:13.150
+you don't get any any security patch any more. 
+While on LTS version, you
+
+0:32:13.150,0:32:19.660
+get security patches back ported forfive years.
+So let's say that you could
+
+0:32:19.660,0:32:25.980
+update the software after five years,
+instead of doing it every six nine months.
+
+0:32:25.980,0:32:30.460
+That can be an issue in some
+cases.
+
+0:32:30.460,0:32:32.770
+This is LibreOffice Online Writer,
+
+0:32:32.770,0:32:40.510
+this is LibreOffice Online Calc.
+They work... they work amazingly well they're
+
+0:32:40.510,0:32:47.260
+solid and they save ODF 
+and ODF is important.
+
+0:32:47.260,0:32:55.059
+What can we do in the future.   
+In the future we can together, but
+only we do that together we can really
+
+0:32:55.059,0:33:04.990
+build a global ecosystem and
+contributing means sharing it's we are
+
+0:33:04.990,0:33:11.710
+all, and let me make a note about the
+language here.  Unfortunately we don't
+
+0:33:11.710,0:33:17.410
+speak the same language all over the
+world.   This is in one sense a pity
+
+0:33:17.410,0:33:22.929
+because we have communication issues but
+the beauty because each language
+
+0:33:22.929,0:33:28.630
+represents our culture.   So we are forced
+to use English as a kind of global
+
+0:33:28.630,0:33:33.580
+language, English is not my native
+language, I'm a decent English speaker
+
+0:33:33.580,0:33:39.190
+but English is not my native language.
+With my wife, she's there,
+
+0:33:39.190,0:33:46.870
+mystic Italian we don't speak English
+within ourselves.  So I totally understand
+
+0:33:46.870,0:33:53.440
+and the effort that you make looking how
+you've run your language.  The effort that
+
+0:33:53.440,0:34:00.309
+you make it's amazing to speak English
+that is based on our Western way of
+
+0:34:00.309,0:34:07.330
+writing, so we are amazed by the fact
+that you are managed to speak such a
+
+0:34:07.330,0:34:14.560
+line of language, but don't be shy.
+We want to, if you know three words of
+
+0:34:14.560,0:34:20.169
+English, use those three words of English.
+We want to understand you.  Don't don't
+
+0:34:20.169,0:34:29.290
+consider English as a barrier.  It is not.
+if necessary it's that to do signs, we
+
+0:34:29.290,0:34:36.940
+Italians are very good at dancing on the
+floor, so the same, because that you're
+
+0:34:36.940,0:34:44.000
+communicating is more important than
+judging the others on language skills.
+
+0:34:44.000,0:34:53.660
+And let's look at a few numbers on Asia.
+So this... this is the visits to the download page.
+
+0:34:53.660,0:34:58.420
+I can give you this is two other
+but this is important because it's visits
+
+0:34:58.420,0:35:03.400
+to download page, so these are the continent. 
+As you can see, Europe is still
+
+0:35:03.400,0:35:14.740
+quite high,  Asia is still is divided in
+East Asia, Central Asia.    We have to
+
+0:35:14.740,0:35:26.940
+improve because still Europe and North
+America are still they have they rely on share.
+
+0:35:26.940,0:35:35.910
+These are from Asia area
+so you have East Asia, Central Asia, South
+
+0:35:35.910,0:35:48.060
+Asia, Southeast Asia, and Western Asia.
+Of course, this probably tells you a lot
+
+0:35:48.060,0:35:53.550
+more than what it tells to me because
+you know the reality of your continent.
+
+0:35:53.550,0:36:00.210
+And these are the countries.  Of course I
+have to create an others because there
+
+0:36:00.210,0:36:08.400
+is a very long tail of countries, but yes,
+India, then after Japan and Indonesia then
+
+0:36:08.400,0:36:18.410
+you have China, Turkey, Philippines, Taiwan
+Thailand, South Korea, Saudi Arabia,
+
+0:36:18.410,0:36:29.600
+Malaysia, Hong Kong, Vietnam, Pakistan,
+Singapore, Israel and the other one are 6%.
+
+0:36:29.600,0:36:34.890
+As you can see, there are
+unbalance in term of so this does not
+
+0:36:34.890,0:36:40.070
+reflect them the potential number of
+users of your countries, of course and
+
+0:36:40.070,0:36:48.000
+people see Japan here but Japan has one
+tenth of the inhabitants of India, so India
+
+0:36:48.000,0:36:55.010
+should have a lot more downloads than Japan,
+nothing mean don't stop downloading you
+
+0:36:55.010,0:37:02.180
+let's have the Indians increasing the
+downloads
+
+0:37:02.180,0:37:06.750
+And that's like what this guy,
+
+0:37:06.750,0:37:15.000
+because I am an old man, so most of the
+times I'm the oldest thing in in the
+
+0:37:15.000,0:37:24.980
+building I don't know if I'm the oldest
+here because I'm not able to judge you
+
+0:37:24.980,0:37:31.770
+as I would be able to judge a European
+but I'm 65 so I don't think there are
+
+0:37:31.770,0:37:36.170
+many younger people than me and I think
+"you're never
+
+0:37:36.170,0:37:45.250
+too old to have another goal and to
+dream a new dream," so I want to stay here
+
+0:37:45.250,0:37:53.390
+for years again to help younger people
+to grow up in the community, I think that
+
+0:37:53.390,0:37:58.819
+it's very important for someone that has
+experience to transfer the experience to
+
+0:37:58.819,0:38:07.390
+the younger people.  So my dream is, this
+is FOSS today, this is people that know
+
+0:38:07.390,0:38:13.910
+free and open-source software these are
+those that use, but they in many case
+
+0:38:13.910,0:38:19.940
+they use but they don't know, for
+instance, many use VLC on their mobile
+
+0:38:19.940,0:38:24.589
+phones and they don't think is free
+software.  And these are the people that
+
+0:38:24.589,0:38:30.020
+refuse, and my dream is tomorrow to say
+these are people that know these are the
+
+0:38:30.020,0:38:35.660
+people that use and these are the people
+that refuse this mean we cannot get rid
+
+0:38:35.660,0:38:44.750
+of those unfortunately, and that's all
+for my part of the speech, and there is
+
+0:38:44.750,0:38:51.859
+Lothar now that will add a few important
+remarks about certification how to build
+
+0:38:51.859,0:38:57.520
+a business also around LibreOffice.
+
+0:39:03.000,0:39:11.109
+So, thank you very much. 
+Before i introduce myself, I think so tropical I want to
+
+0:39:11.109,0:39:15.550
+tell you that I have all three
+challenges, the first one is it's my
+
+0:39:15.550,0:39:24.060
+first stay in Asia in my life, and I'm
+very wanted to be here in the LibreOffice Conference Asia,
+
+0:39:24.060,0:39:27.790
+and the second
+one is it's also the first time in my
+
+0:39:27.790,0:39:32.680
+life that I present my presentation and
+have used to to presentation before my
+
+0:39:32.680,0:39:38.440
+wife, so please be kind with touch nervous.
+
+0:39:38.440,0:39:44.440
+And the third one is to speak after
+Italo, it's... it's a challenge, it's a
+
+0:39:44.440,0:39:53.109
+challenge because he's so so good in
+making presentations and I won't stress
+
+0:39:53.109,0:39:58.080
+you too much I will hurry up a little
+bit to join the six o'clock.
+
+0:39:58.080,0:40:08.540
+So, first of all, let's have a look a little bit on
+the business side,
+
+0:40:08.540,0:40:14.800
+I want to speak a little bit about certifying 
+as a LibreOffice professional,
+
+0:40:14.800,0:40:20.760
+and why this is a win-win-win situation 
+for the community,
+
+0:40:20.760,0:40:28.980
+and perhaps that we have a few words to myself, 
+this is all formal stuff
+
+0:40:28.980,0:40:35.680
+that as Italo mentioned 
+the history of StarOffice and OpenOffice,
+
+0:40:35.680,0:40:41.680
+My company .riess applications was the
+
+0:40:41.680,0:40:51.760
+first migration partner of some in
+Europe so we have done the first one of
+
+0:40:51.760,0:40:59.520
+the first migration project in the early
+2000s it was 2001 or something about this that
+
+0:40:59.520,0:41:07.480
+we have worked[?]
+together with the staff of Sun and spoke
+
+0:41:07.480,0:41:15.300
+with them about how can we bring OpenOffice, StarOffice then OpenOffice
+
+0:41:15.300,0:41:22.460
+to professional users as the deployment
+in an professional environment.
+
+0:41:22.460,0:41:29.320
+And this is now 7 or 8 years we have changed the
+product LibreOffice, so this is the
+
+0:41:29.320,0:41:38.890
+track records I have in business with an
+allowance open opposite[?] LibreOffice.
+
+0:41:38.890,0:41:46.840
+So, let me focus on the community and I
+wanted to bring in a part of the
+
+0:41:46.840,0:41:52.840
+community in which is not always
+recognized but which we all know that it
+
+0:41:52.840,0:41:55.390
+is a very important part of the
+community,
+
+0:41:55.390,0:42:04.360
+it's the third group of stakeholder it's
+the eco systems around the product we have.
+
+0:42:04.360,0:42:11.020
+the first group first for most all
+users around them, they are private, they
+
+0:42:11.020,0:42:18.060
+are professional, even if they use LibreOffice offline as we know everybody and
+
+0:42:18.060,0:42:26.320
+the new ones since few years Online, and
+prefers Online their first times, and the
+
+0:42:26.320,0:42:34.400
+second one is the computer team, often
+spoke about the community, it's the
+
+0:42:34.400,0:42:39.730
+participants to develop the product
+so everybody who brings in some
+
+0:42:39.730,0:42:46.060
+contributions to the product is a man
+that we speak with community, yes,
+
+0:42:46.060,0:42:51.580
+also the ecosystem which is needed to
+guarantee the support the professional
+
+0:42:51.580,0:42:59.340
+support and services for these professional 
+environments what we want to discuss.
+
+0:43:01.530,0:43:09.000
+So, as we start conversation for thinking
+about business, thinking about business
+
+0:43:09.000,0:43:16.900
+in was in Asia, there wasn't the question
+how do we get business around LibreOffice,
+
+0:43:16.900,0:43:24.680
+is it like the genesis from dust coming out,
+perhaps Italo is saying "bang!" and
+
+0:43:24.680,0:43:30.960
+there are some big migration projects to
+be progress with professional
+
+0:43:30.960,0:43:39.240
+deployments and checking who doing 
+this ecosystem and everything is
+
+0:43:39.240,0:43:48.120
+fine for the next hundreds of years.
+No, we all know I don't want to to have any
+
+0:43:48.120,0:43:56.600
+religious feelings by that we all know and
+this is not the kind or the way it will happen.
+
+0:43:56.600,0:44:01.220
+So what could be the way it pretends?  and
+
+0:44:01.220,0:44:14.210
+this is what I want to mention in this
+talk what brings LibreOffice and some
+
+0:44:14.210,0:44:22.240
+kind of community, some kind of ecosystems, some kind of projects...
+
+0:44:22.240,0:44:28.070
+to a very wise one where we have chicken, 
+we have egg, and
+
+0:44:28.070,0:44:34.020
+growing up more and more over the time,
+and the question is what are the
+
+0:44:34.020,0:44:43.350
+catalysts, what are the criterias, to
+grow that up to have a vital ecosystem
+
+0:44:43.350,0:44:49.740
+around LibreOffice.
+
+0:44:49.740,0:44:56.670
+As I recap my slides, this
+morning I was a little bit concerned
+
+0:44:56.670,0:45:08.100
+about this slide.  Because, to bring in, here in
+Asia, the role model of Europe in this
+
+0:45:08.100,0:45:13.340
+case Germany,
+I felt a little bit that this is
+
+0:45:13.340,0:45:22.250
+misplaced.  Why?  Well, ecosystem with and
+around LibreOffice is services. it's most
+
+0:45:22.250,0:45:28.040
+part services support and what we
+discovered the last last two days is
+
+0:45:28.040,0:45:36.920
+that the cultural services here in Asia
+as a lot higher and better and that we
+
+0:45:36.920,0:45:44.150
+have in Europe, so I'm feeling a little
+bit concerned to bringing this example
+
+0:45:44.150,0:45:51.400
+how how it can works, but perhaps we can
+take the catalysts I've marked them in
+
+0:45:51.400,0:45:59.290
+green, LibreOffice green, color which are the
+cafeterias which I think could be
+
+0:45:59.290,0:46:02.800
+catalysts for bringing up more 
+business world.
+
+0:46:02.800,0:46:05.810
+So let's have a look at what has
+
+0:46:05.810,0:46:12.970
+happened in Germany.  There were some
+anchor persons and some local community
+
+0:46:12.970,0:46:24.290
+there which starts doing some business.
+So it's all about you and me ,there
+
+0:46:24.290,0:46:29.250
+must be some person who say "yes, we do it,"
+and that's very very important.
+
+0:46:29.250,0:46:37.260
+In the German case, little mentioned some names,
+Thomas Jacqueline, Florian, as well as Thorsten,
+
+0:46:37.260,0:46:48.069
+and our persons.  [???] enough or not enough[?], 
+an anchor company who care about
+
+0:46:48.069,0:46:55.690
+the products, it was in the early stage
+StarDivision, afterwards it was Sun, I
+
+0:46:55.690,0:47:02.380
+have talked with Michael Bemmer around these, all these community issues,
+
+0:47:02.380,0:47:13.200
+see it as good or bad, catalysts 
+that was good anchor companies want to make business with them.
+
+0:47:13.200,0:47:22.320
+Third one, the lighthouse projects.  Not
+many projects, but I remember that in the
+
+0:47:22.329,0:47:30.420
+early 2000s, I was talking to the
+city of Munich about the whole migration
+
+0:47:30.430,0:47:39.369
+to Linux and this stage of OpenOffice, and
+that it's rather the years that they
+
+0:47:39.369,0:47:48.099
+decide to do that.  So some lighthouse
+projects are important that other which
+
+0:47:48.099,0:47:54.869
+are thinking about to migrate see that
+there are some role models for it.
+
+0:47:54.869,0:48:04.680
+Especially in our case of public has
+administration's who were thinking about
+
+0:48:04.680,0:48:13.299
+turning away from Microsoft Office to LibreOffice, and
+why did then because there was a
+
+0:48:13.299,0:48:20.770
+depression in the ecosystem.  There was
+somewhere a cost sensitivity, which we
+
+0:48:20.770,0:48:27.760
+heard in all over topside works, today
+the cost sensitive all about license
+
+0:48:27.760,0:48:34.859
+costs, awareness about vender lock-in,
+with long consequences also costs
+
+0:48:34.860,0:48:44.010
+arguments.
+And the way to support Open Document Format, technical issue to come to to
+
+0:48:44.010,0:48:54.480
+peel the side of this vendor lock-in.  So
+this this were catalysts there were some
+
+0:48:54.480,0:49:01.710
+people as mentions besides Sun who
+want to make business bridge who some
+
+0:49:01.710,0:49:08.910
+services support for for the software
+and afterwards
+
+0:49:08.910,0:49:17.490
+we developed these certifying process
+for acknowledge some companies, some
+
+0:49:17.490,0:49:27.480
+people and these companies that they do
+a qualified service for this product.
+
+0:49:27.480,0:49:35.480
+And this is the only thing, the only thing
+you see the others become you can check
+
+0:49:35.490,0:49:42.000
+for for Asia, I think there are some
+anchor persons here the rule for Asia who
+
+0:49:42.000,0:49:51.390
+are promoting this product like Franklin,
+like Shinji here in Japan, like Alice,
+
+0:49:51.390,0:49:56.220
+sorry to be not mentioned everybody, but
+there are anchor persons and the local
+
+0:49:56.220,0:50:06.900
+community, who is couple of do that. I think collect some anchor
+companies, awesome lighthouse projects as
+
+0:50:06.900,0:50:18.450
+as CTC from Taiwan, Fans from
+Indonesia and of us we heard today which
+
+0:50:18.450,0:50:25.760
+are it could be the lighthouse projects
+as catalyst is here to the ecosystem in Asia.
+
+0:50:25.760,0:50:30.960
+I don't know if there is something
+like a kind of depression in Asia, but I
+
+0:50:30.960,0:50:35.270
+know and you have mentioned in the talks
+there's a costs
+
+0:50:35.270,0:50:42.980
+and the sensitivity from the lock-in
+issue in Asia, so what we can do from Europe
+
+0:50:42.980,0:50:50.860
+or from all the community, the ecosystem
+community could help you at least certification.
+
+0:50:50.860,0:50:57.470
+Let me give just short
+introduction to this certifying
+
+0:50:57.470,0:51:05.600
+LibreOffice certifying proces. 
+If it were interesting I tell you that we have
+
+0:51:05.600,0:51:11.060
+tomorrow these business workshops and
+registration so asked me questions about
+
+0:51:11.060,0:51:18.260
+that tomorrow that I is become an accent
+explain the whole process in this few
+
+0:51:18.260,0:51:26.270
+minutes but just a few words.
+There are four profiles for... we think
+
+0:51:26.270,0:51:34.800
+four profiles for certifying.
+There are professional certified developers,
+
+0:51:35.380,0:51:43.040
+there are professional migration consultants, theer are trainers, professional trainers, with the own profiles,
+
+0:51:43.040,0:51:49.340
+and perhaps somewhere in the future
+we will have an own profile for
+
+0:51:49.340,0:51:59.690
+certified supports consultants, but we
+cover this supports profile I think a
+
+0:51:59.690,0:52:05.260
+part of the migration and the
+part of the trainer skills.
+
+0:52:05.260,0:52:18.470
+And this is... these are the profiles about the kind of
+process to get certified . The profile of
+
+0:52:18.470,0:52:27.359
+development is levels slightly different
+the other two.  Developers are invited by
+
+0:52:27.359,0:52:32.000
+the engineering steering committee so
+they are recognized for giving
+
+0:52:32.000,0:52:37.589
+contributions to the source code and if
+you have done some of these
+
+0:52:37.589,0:52:44.000
+contributions they recognize you as a
+developer who can master the code, and
+
+0:52:44.000,0:52:51.800
+then you will be invited and if you want
+to be listed as certified developer, and
+
+0:52:51.800,0:52:58.829
+if you say yes you will be listed.
+Quite different is the certification for
+
+0:52:58.829,0:53:07.410
+migration and training to be sure in the
+process we certify people, not companies,
+
+0:53:07.410,0:53:15.359
+and as a consultant for migration or as
+a trainer you should have some
+
+0:53:15.359,0:53:23.790
+experience in this area for training or
+for migrating to LibreOffice, then you
+
+0:53:23.790,0:53:31.099
+should show these experience, for example
+with some documents, to the committee
+
+0:53:31.099,0:53:37.530
+applicate to to this certifying role,
+with these documents and it will be
+
+0:53:37.530,0:53:44.130
+reviewed by the committee and if it is
+acknowledged that it seems to be like
+
+0:53:44.130,0:53:50.220
+little bit experienced in this area, you
+get divided to do such a registration
+
+0:53:50.220,0:53:58.920
+which we are doing tomorrow here... and if
+the committee of reviewers, normally 
+
+0:53:58.920,0:54:06.420
+three or four, all of these committees and yes
+we trust these quality of service of
+
+0:54:06.420,0:54:09.650
+this person who gets certified.
+
+0:54:13.600,0:54:22.500
+So why it is chocolates[?], why is this
+helping, why is this a win-win-win-win
+
+0:54:22.500,0:54:26.780
+in the community from the stakeholders. 
+So I think it's easy to
+
+0:54:26.780,0:54:33.370
+understand out of the customer side of a
+professional user side, it's good to have
+
+0:54:33.370,0:54:44.300
+suction such contracts such a list you
+if you need such a certified service
+
+0:54:44.300,0:54:50.060
+where you can have contact persons where
+you have you can ask and you know that
+
+0:54:50.060,0:54:59.330
+they are used with trust from the
+community.   So mainly the customer, the
+
+0:54:59.330,0:55:08.220
+users are gaining the quality of
+services some of these certification.
+
+0:55:08.220,0:55:17.320
+The community everybody who is in the
+contribution truth.   Typical win element is that we get out of
+
+0:55:17.330,0:55:24.560
+these certified people certainly and
+I believe us how we can develop the product
+
+0:55:24.560,0:55:31.750
+heads, especially ahead in in the way for
+using it in professional environments.
+
+0:55:31.750,0:55:36.800
+Integration issues, compatibility issues,
+and so on.
+
+0:55:36.800,0:55:47.630
+And the third poem that win is typically
+for applicants, because
+you ask certified people listed in
+
+0:55:47.630,0:55:55.970
+an official list of TDF, on LibreOffice online
+websites, where everybody can see that
+
+0:55:55.970,0:56:00.850
+you are certified migrator, certified trainer,
+or something like this.
+
+0:56:00.850,0:56:10.060
+And certainly the witness working in such an awesome community, we enjoy with you.
+
+0:56:10.060,0:56:21.240
+So... Doumo Arigato!
+
+0:56:35.580,0:56:42.680
+Okay, it's six o'clock so I mean if you have questions
+and take part tomorrow come to me come
+
+0:56:42.690,0:56:49.309
+to Italo and we will help you with this.
+Thank you very much!
