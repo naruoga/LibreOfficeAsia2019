@@ -1,0 +1,736 @@
+0:00:03.560,0:00:10.959
+Hello.  So, first I want to say thanks for
+the organizers to provide such a
+
+0:00:10.960,0:00:17.120
+beautiful venue so that we can here to
+present to all of you.
+
+0:00:17.120,0:00:21.920
+So, my name is Mark Hung.  I come from Taiwan.
+
+0:00:21.920,0:00:39.219
+I'm a LibreOffice developer and in last few years I worked a lot in Writer and Impress
+issues mainly related to CJK languages,
+
+0:00:39.220,0:00:46.640
+So today I'm going to talk about to
+review some of the issues I have faced
+
+0:00:46.640,0:00:49.600
+and some stories behind them.
+
+0:00:49.600,0:00:59.580
+so it's not quite it's not a very technical talk but just share some of my stories.
+
+0:00:59.740,0:01:08.020
+So, in LibreOffice, there are many features that are designed
+
+0:01:08.020,0:01:16.430
+specifically for CJK users such as Asian
+typography that we are allowed to use
+
+0:01:16.430,0:01:23.880
+hanging punctuation and like we have line
+breaking rules that we can state
+
+0:01:23.880,0:01:29.220
+forbidden characters at the beginning of
+the line and end of line,
+
+0:01:29.380,0:01:38.500
+and Asian kerning and character compression for
+punctuation and kana, Japanese kana.
+
+0:01:38.700,0:01:44.080
+Also, we have justify alignment rules.
+
+0:01:44.080,0:01:53.340
+Japanese and Chinese users have different justify rule compared to other languages.
+
+0:01:53.520,0:01:59.360
+And also some contexts we write a vertically
+
+0:01:59.520,0:02:08.980
+or filling special form of paper called "case grid paper" that is "gǎozhǐ" or "genkou youshi."
+
+0:02:08.980,0:02:18.880
+So, and also, we use Ruby or Asian phonetic guide to mark ideographs
+
+0:02:18.880,0:02:24.960
+so they are the reader the readers know to pronounce an ideograph.
+
+0:02:24.960,0:02:34.000
+And, we have other language tools like conversion tools for simplified Chinese and traditional Chinese,
+
+0:02:34.000,0:02:40.360
+and also, there is the conversion tool for Hangul and Hangcha for Korean people.
+
+0:02:40.360,0:02:45.250
+So, and also, there are some features that
+
+0:02:45.250,0:02:52.530
+are not visible from the user interface
+but we need them every day such as
+
+0:02:52.530,0:02:58.940
+support of input method, or mixing
+Western and Asian script,
+
+0:02:58.940,0:03:07.480
+or like support  of characters like some special characters like Ideograph Variance sequence,
+
+0:03:07.480,0:03:12.360
+and Unicode characters that are
+not in Basic Multilingual Plane.
+
+0:03:12.360,0:03:24.070
+So, these features designed specifically for CJK users, so the other way that it is hard
+
+0:03:24.070,0:03:34.420
+for other language users especially for
+Western people to understand how they
+
+0:03:34.420,0:03:41.800
+should be used or what the expectation
+of the those the behavior of those
+
+0:03:41.800,0:03:49.640
+features so sometimes it get very long
+to get a back fist.
+
+0:03:49.640,0:03:53.920
+Okay, so how did everything begin.
+
+0:03:53.920,0:04:02.400
+So I just want to share about my story that how I began to have LibreOffice.
+
+0:04:02.400,0:04:12.070
+So, back to 2014, 
+I worked an organisation with roughly 600 computer
+
+0:04:12.070,0:04:21.440
+computers and 400 people and I my
+department was responsible for the
+
+0:04:21.440,0:04:29.930
+office suite migration and I I was
+working I worked on promoting promoting
+
+0:04:29.930,0:04:39.820
+at that time we have deployed OpenOffice
+and so I was I worked on promote or
+
+0:04:39.820,0:04:50.320
+improved migration of the office suite
+so there are a few typical questions from end-users.
+
+0:04:50.320,0:04:56.150
+For example, that where
+we were from time time we face the
+
+0:04:56.150,0:05:03.500
+question like why do Chinese numbers in
+the number list, numbering list in my
+
+0:05:03.500,0:05:11.720
+in my DOCX or DOC, or RTF, those
+Microsoft format files, become Arabic numbers,
+
+0:05:11.720,0:05:16.520
+and why our country Asian punctuation  marks so close to the text behind,
+
+0:05:16.520,0:05:25.400
+and why do punctuation marks go outside the printing area, and why our text ill-formatted.
+
+0:05:25.400,0:05:31.910
+So, we developed a kind of
+answers to those questions for example
+
+0:05:31.910,0:05:41.690
+we have to teach users how to create
+number list, list style, and then apply
+
+0:05:41.690,0:05:48.979
+it and ask them to save it to Open Document
+Format otherwise if they reload the same
+
+0:05:48.979,0:05:55.440
+file they will find that the format this
+was missing again.
+
+0:05:55.440,0:06:04.530
+so that's kind it's nothing wrong to
+save to Open Document Format I think that
+
+0:06:04.530,0:06:10.380
+is the right thing to do.  But, on the
+other hand, it becomes quite a burden
+
+0:06:10.380,0:06:18.520
+because creating number list style is kind
+of more advanced in my point of view.
+
+0:06:18.520,0:06:30.980
+So, and for other questions like those text formatting issues, I I will ask them to turn off the CJK features
+
+0:06:30.980,0:06:41.280
+such as character compression like pen punctuation or text grid, so at that time
+
+0:06:41.280,0:06:47.600
+the CJK features we can cut some time a road block behind us.
+
+0:06:47.600,0:06:57.150
+So, I, how, then...
+there is something done my colleague
+
+0:06:57.150,0:07:04.260
+told me he said that if you've got a
+simplified Chinese document then the
+
+0:07:04.260,0:07:10.950
+numbers the numbers the Chinese numbers
+in the document will show up correctly
+
+0:07:10.950,0:07:18.600
+so that's a very strange clue to me
+because this you can display simplified
+
+0:07:18.600,0:07:26.610
+Chinese in the number list in the
+Microsoft Office format
+
+0:07:26.610,0:07:33.060
+why couldn't display the traditional
+Chinese ones because for the lower
+
+0:07:33.060,0:07:39.020
+number is one two three four five six
+seven those are totally the same.
+
+0:07:39.020,0:07:50.500
+so it's kind of knowledgeful and in my opinion I think it must be very very easy to fix this kind of issue.
+
+0:07:50.500,0:08:01.650
+So, in the summer I think it's when I was going to leave the office and I was very worried or
+
+0:08:01.650,0:08:06.949
+frustrated
+working on a document and then I thought
+
+0:08:06.949,0:08:15.319
+why why should why shouldn't why not is
+try to look into what inside the
+
+0:08:15.319,0:08:23.229
+document so I just unzip the document, so
+if you know, that those documents are
+
+0:08:23.229,0:08:31.879
+actually zipped, zipped file for many xml
+files, and those xml files are all the
+
+0:08:31.879,0:08:36.039
+text text format that you can read with
+any kind of text reader.
+
+0:08:36.039,0:08:45.360
+Then I start looking for some interesting keyword
+inside the document,
+
+0:08:45.360,0:08:54.640
+so, then, there is something I remember I don't exactly
+remember if it is taiwaneseCountingThousand
+
+0:08:54.640,0:08:59.240
+or chineseCountingThousand,
+but anyway there because they are pure
+
+0:08:59.240,0:09:05.660
+text, I can easily recognize that this
+is something I want to looking for.
+
+0:09:05.660,0:09:14.990
+So, I googled the keyword, and I search
+the source, and then I try to make a
+
+0:09:14.990,0:09:27.580
+patch, and then I submit a patch to
+Apache OpenOffice. I think it's in the August 2014.
+
+0:09:27.580,0:09:36.200
+However, that, while, I'm,
+after waiting for my patch to review for three months.
+
+0:09:36.220,0:09:42.180
+I decide to try to submit
+my catch to LibreOffice gerrit,
+
+0:09:42.180,0:09:52.220
+and to my surprise, my patch get reviewed in one
+day and then it gets merged by the way
+
+0:09:52.220,0:10:01.020
+Miklos reviewed my, my patch and then in
+several days my patch just get merged.
+
+0:10:01.020,0:10:11.080
+So I told that, I told my colleague about
+this, then we are excited about this.
+
+0:10:11.080,0:10:16.080
+So we switched to LibreOffice in next year.
+
+0:10:16.080,0:10:23.130
+So, because of this, I think because regard
+of this problem very often in our document
+
+0:10:23.130,0:10:32.940
+they are always number list, after this fix
+in these the burden of the support largely reduced.
+
+0:10:32.940,0:10:39.700
+So, after that, 
+I become, I became a regular contributor.
+
+0:10:39.700,0:10:50.400
+So, I started with number list, then all kind
+of than the number list in different
+
+0:10:50.400,0:10:59.570
+kind of file formats, and then related issues
+such as underline, character, any keyword that
+
+0:10:59.570,0:11:08.100
+that is related to that, then I started
+to try if I can fix those problem is
+
+0:11:08.100,0:11:16.350
+take document that I can found in my
+office space, and then later I just look
+
+0:11:16.350,0:11:31.260
+at started to look at the CJK issue list,
+so it will expand the area of my interest, so, and so on.
+
+0:11:31.260,0:11:38.880
+So this look has some of interesting CJK issues
+
+0:11:38.880,0:11:47.500
+so at that time as I mentioned that the user this is one of the frequently as user questions that
+
+0:11:47.500,0:11:52.620
+why the text behind the punctuation mark go close to the previous one.
+
+0:11:52.620,0:11:59.980
+So, is there anyone 
+who want to guess the reason?
+
+0:11:59.980,0:12:10.030
+Okay,  so this is a specific issue for
+traditional Chinese users that for
+
+0:12:10.030,0:12:15.970
+character compression that worse by
+pulling the text behind the punctuation
+
+0:12:15.970,0:12:23.870
+for those punctuation marks like voice
+comma, full-width dot, full-width period.
+
+0:12:23.870,0:12:26.560
+So, they put text behind.
+
+0:12:26.560,0:12:29.140
+So why can you do that?
+
+0:12:29.140,0:12:39.313
+Because, in Japanese, the comma and period are designed close to the
+previous text,
+
+0:12:39.313,0:12:49.070
+so if you put behind a one third of one first, then it's you will not affect the result of for mention, but
+
+0:12:49.070,0:12:54.410
+for Chinese especially in traditional
+Chinese users, our punctuation marks are
+
+0:12:54.410,0:13:01.520
+around the center of the grid, so when
+you simply believe through the text to
+
+0:13:01.520,0:13:07.600
+front to the front then you will find
+together like this.
+
+0:13:07.600,0:13:15.020
+so it take me some time to understand that there... when we say CJK features sometimes they're
+
+0:13:15.020,0:13:19.860
+actually designed after the Japanese
+formatting rules.
+
+0:13:19.860,0:13:22.940
+So I feel it's quite interesting.
+
+0:13:22.940,0:13:31.970
+So, like similar things happened 
+while I fix the hanging punctuation issue.
+
+0:13:31.970,0:13:44.430
+So, like, there is... so... like... we can see in
+my text example, hanging punctuation is very
+
+0:13:44.430,0:13:52.020
+far away from the water, so, because that
+the Japanese design text layout rules
+
+0:13:52.020,0:14:00.990
+that you have your punctuation marks are
+more close to to the previous text so so
+
+0:14:00.990,0:14:07.890
+it seems more obvious to traditional
+Chinese users, but anyway, I just try to
+
+0:14:07.890,0:14:14.730
+find out everything I can found on the CJK issue this, so... so, now makes it
+
+0:14:14.730,0:14:24.020
+makes the solution of the text more
+consistent when there is hanging punctuation.
+
+0:14:24.020,0:14:34.860
+And then, after I... after I try to look at
+the CJK META issue, then I started
+
+0:14:34.860,0:14:40.020
+doing something now I didn't use myself
+like this one.  That's Ruby.
+
+0:14:40.020,0:14:48.120
+So, I thought that, I just think, maybe this will be
+useful for Japanese people and they will
+
+0:14:48.120,0:14:58.140
+feel inconvenient without them, so so now
+that ruby support in DOCX or DOC
+
+0:14:58.140,0:15:01.200
+format are more robust now.
+
+0:15:01.200,0:15:06.780
+And then, and,
+we try I try to look at some strange
+
+0:15:06.780,0:15:12.860
+issues like when there are strange
+characters the justifying alignment will
+
+0:15:12.860,0:15:23.550
+show and show up ill... ill-formatted and
+like aligns extrude the the if you there
+
+0:15:23.550,0:15:32.690
+is underlined or or cross lines, they
+will issue the area of the of the page.
+
+0:15:32.690,0:15:44.140
+And also, try to make borderlines
+and underlines more consistent.
+
+0:15:44.140,0:15:54.720
+So... so, as I mentioned in the earlier slide
+ that when.. when in 2014,
+
+0:15:54.720,0:16:03.269
+there are few typical questions and they
+are one of them that about my... my... my
+
+0:16:03.269,0:16:11.519
+document just look ill-formatted, and the
+our advice is just turn off the text
+
+0:16:11.519,0:16:20.490
+grid in the page style.  So... so, this... that
+is because that there is so many
+
+0:16:20.490,0:16:26.100
+strange things when you turn on text grid
+and unfortunately at that time when you got
+
+0:16:26.100,0:16:34.000
+the document mainly from Microsoft
+ in DOCX format or in DOC format, then
+
+0:16:34.200,0:16:41.420
+I don't know why that the text illed were
+always or not.  So... so, we have so many
+
+0:16:41.430,0:16:51.509
+documents with illed-formatting.  So... so,
+in 2017, I decided that I want to
+
+0:16:51.509,0:16:57.990
+test the features romantically by
+combining all the settings together, then
+
+0:16:57.990,0:17:05.180
+and try to fix the those issues as much
+as possible.
+
+0:17:05.180,0:17:13.360
+So like you, we got a problem that an extra cell is 
+inserted between English and Chinese.
+
+0:17:13.360,0:17:22.340
+And like extra new line after the numbered list.
+
+0:17:22.340,0:17:33.140
+And also, some... in some situation, that the characters are close together so that they just looked wrong,
+
+0:17:33.140,0:17:38.460
+and obviously this is not correct.
+
+0:17:38.460,0:17:45.460
+So also, I do a side-by-side comparing of Microsoft Office and LibreOffice and try to find those small things.
+
+0:17:45.460,0:17:58.320
+so I take a piece of a new project. and presented,
+I think that, I think in Rome.
+
+0:17:58.320,0:18:08.730
+So the after I think this I think that
+maybe everything is fine for me and I am
+
+0:18:08.730,0:18:19.340
+not sure what to do next and so in next
+year I I try to fix something that is
+
+0:18:19.370,0:18:27.210
+this kind of picking brought[?] something
+rendering[?] so as I saw that Shinji-san,
+
+0:18:27.210,0:18:39.020
+I think Shinji-san presented that in Rome.
+ So I... next year, early next year, I just tried to fix that thing.
+
+0:18:39.020,0:18:46.120
+And also, there is an ongoing there is an ongoing big project for me,
+
+0:18:46.120,0:19:02.060
+uh...so, forJapanese users that Rubies, the typical use of rubies are, using are, could be above or behind of the base text.
+
+0:19:02.060,0:19:09.420
+but for traditional Chinese users in Taiwan
+
+0:19:09.420,0:19:21.000
+that we have... we... when we write in horizontally from left to right, we will mark... the mark... the mark
+
+0:19:21.000,0:19:27.440
+the Ruby and the right side of the base
+text vertically from top to bottom.
+
+0:19:27.440,0:19:38.180
+So, this is typically used for small
+children who is about one first year or
+
+0:19:38.180,0:19:44.540
+second year in elementary school that they are
+learning to write ideographics.
+
+0:19:44.540,0:19:56.009
+So I did this. I begin to do this at, I think, in 2016.
+
+0:19:56.009,0:20:04.019
+At that time, I.. my... my daughter is... was
+still in kindergarten, then I try to set
+
+0:20:04.019,0:20:10.529
+the deadline for myself that if I can
+make it before she started to learn this
+
+0:20:10.529,0:20:17.279
+is [?????], but I failed. (laugh)
+I missed the deadline, and... but,
+
+0:20:17.279,0:20:23.070
+anyway I'm happy because I think that if
+if you're a teacher or like sometimes
+
+0:20:23.070,0:20:32.340
+once my... my wife is writing something for
+my daughter and then and you... you will
+
+0:20:32.340,0:20:39.500
+have the only software you can use is
+Microsoft Office, so, then, now we have we
+
+0:20:39.500,0:20:45.500
+finally we have another software that we
+can open source software that
+
+0:20:45.520,0:20:55.320
+we can mark the bottom of in a way that our [????].
+
+0:20:55.320,0:21:00.050
+So, eventually in 2018, I planned
+
+0:21:00.050,0:21:09.460
+text layout and Ruby dialog updated
+so that there is an option for the vertical write.
+
+0:21:09.460,0:21:14.320
+And support different kind of file formats.
+
+0:21:14.320,0:21:20.690
+And also it's actually another bug
+that tone... tone mark positioning because
+
+0:21:20.690,0:21:31.070
+that these symbols are called torn marks
+and they have different positioning when
+
+0:21:31.070,0:21:40.310
+they are writing as tone marks. So... so
+I developed those feature, I test with a
+
+0:21:40.310,0:21:48.440
+special font called a "Bopomofo GPOS Regular"  that is designed by But Ko in Taiwan,
+
+0:21:48.440,0:21:57.440
+and unfortunately, by font is evolving and they
+
+0:21:57.440,0:22:03.800
+eventually put those [???] for tone mark positioning feature into Source Hans
+
+0:22:03.800,0:22:16.840
+and something has changed that Sources Hans 2.0.1 does not compatible with LibreOffice.  This kind of pity.
+
+0:22:16.840,0:22:19.880
+So... so, what's next.
+
+0:22:19.880,0:22:35.320
+So, they are still about 90 issues on the
+CJK META  list, so there is quite, there is still quite a lot things that we can do.
+
+0:22:35.320,0:22:41.827
+So, for example, I try to start to work on Ruby in calc early this year.
+
+0:22:41.827,0:22:48.900
+So the general idea is that we can create character attributes similar to writer,
+
+0:22:48.900,0:22:55.120
+and then... then we can reuse Asian Phonetic Guide dialogue,
+
+0:22:55.120,0:23:01.000
+and then we try to import and export from the Excel format,
+
+0:23:01.000,0:23:04.740
+and then we do the text layout and display,
+
+0:23:04.740,0:23:13.360
+and then finally we can develop attributes or properties for Open Document Format so that they can be
+
+0:23:13.360,0:23:17.140
+imported and exported.
+
+0:23:17.140,0:23:22.510
+Also there are... there are still many things that
+
+0:23:22.510,0:23:30.540
+ideas that I'm interested like how
+to make a Ruby easier to use,
+
+0:23:30.540,0:23:38.560
+for example, currently split segments for use, so that you can mark
+
+0:23:38.560,0:23:46.360
+the mark the Ruby text on it, but if we
+made mistake then it will be hard to
+
+0:23:46.360,0:23:56.380
+edit and also for Taiwanese users we
+mostly use "mono rubies" for Bopomo.
+
+0:23:56.380,0:24:01.840
+So, also there are some requests about
+improving the tool in general so that it
+
+0:24:01.840,0:24:06.140
+can be edited more quickly, and search & replace.
+
+0:24:06.140,0:24:13.920
+And also can Calc and Impress do not support Ruby yet.
+
+0:24:13.920,0:24:25.600
+So I discussed this with Naru-san, 
+so he said that Calc is more important
+
+0:24:25.600,0:24:31.800
+because there... there are some 
+widespread document there.
+
+0:24:31.800,0:24:40.480
+So, and also, they are line breaking
+rules that I have tried to look into but
+
+0:24:40.480,0:24:47.760
+I did not have enough time
+to handle and they are all have similar
+
+0:24:47.760,0:24:57.860
+causes and so that might be an
+interesting issues to handle in the next research.
+
+0:24:57.860,0:25:01.640
+Also, vertical writing issues here.
+
+0:25:01.640,0:25:11.620
+So, for vertical writing, I did not... I did not actually show up anything changed in today's presentation.
+
+0:25:11.620,0:25:20.940
+I tried, but I cannot do it very well, because, I fixed
+it for a few times that approach of you
+
+0:25:20.940,0:25:27.560
+can't see then and because they will
+change to unit unified rendering
+
+0:25:27.560,0:25:35.280
+software library called HarfBuzz, and, they 
+broke again and with other developers solved
+
+0:25:35.280,0:25:43.320
+help as is, here has needs help, that we...
+we make it correct again for Linux and
+
+0:25:43.320,0:25:50.160
+Windows, and for Mac platform it, it is
+always incorrect, because I don't
+
+0:25:50.160,0:25:56.600
+have a Mac, so I cannot even to see I
+cannot even see what's the problem
+
+0:25:56.600,0:26:04.110
+So, in my opinion, although that take unified text layout is correct for horizontal
+
+0:26:04.110,0:26:13.520
+writing in general, I have no confidence
+for the vertical writing, so this might be
+
+0:26:13.520,0:26:20.820
+one area that were discussing.
+
+0:26:20.820,0:26:26.140
+So, what's next?  
+So, if you're still interested
+
+0:26:26.150,0:26:32.780
+connects[?] then you can come to join us,
+join the LibreOffice HackFest tomorrow.
+
+0:26:32.780,0:26:35.900
+Thank you.
+
